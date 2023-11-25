@@ -1,6 +1,6 @@
 # [Health App](shahabafridy.pythonanywhere.com/)
 This project is an end to end data science project that is able to predict the chances of getting a disease in organs like liver, kidey, heart, etc.<br><br>
-![](Health_app_pic.png)
+![plot](Health_app_pic.png)
 
 # Dataset Used
 1. [Diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database): Pima Indian Diabetes Dataset
