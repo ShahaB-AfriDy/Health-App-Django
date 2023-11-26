@@ -26,6 +26,6 @@ This project is an end to end data science project that is able to predict the c
  d. Similarly Deployed all models and connected them to the each app page inside  web server.<br>
  
  # Project Created by:
-[Shahab Afridy]([https://www.linkedin.com/in/shahab-afridy/](https://www.linkedin.com/in/shahab-afridy-230577207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)https://www.linkedin.com/in/shahab-afridy-230577207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[Shahab Afridy](https://www.linkedin.com/in/shahab-afridy-230577207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
  
